@@ -14,7 +14,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+<<<<<<< HEAD
         <h1>Welcome to avigail-chziza React App</h1>
+=======
+        <h1>Welcome to React App</h1>
+>>>>>>> 3f1395ea5c3be6dbfa97eedc4fa44fb94018e5c5
         <button /*onClick={fetchData}*/ className="fetch-button">Fetch backend</button>
         <p>{message}</p>
       </header>
