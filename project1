@@ -1,0 +1,7 @@
+git clone https://github.com/<project1-github-Avigail-hodaya-chaziza>/devops_mbj_frontend.git
+# Navigate to the project directory:
+cd devops_mbj_frontend/project1
+# Install dependencies:
+npm install
+# Run the app:
+npm start
